@@ -101,16 +101,22 @@ body {
 }
 
 p{
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     color: rgb(18, 11, 59);
     text-align: justify;
     
 }
 
-h2, h3{
+h2{
     color: #c2c500;
     text-align: center;
+}
+
+h3{
+    color: #c2c500;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .site-info {
